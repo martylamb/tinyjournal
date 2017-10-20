@@ -5,7 +5,7 @@
 
     <groupId>com.martiansoftware</groupId>
     <artifactId>tinyjournal</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
     <name>tinyjournal</name>
     <description>A very simple tool for safely writing and reading arbitrary journal entries to/from a backing data store.</description>
     <url>https://github.com/martylamb/tinyjournal</url>
