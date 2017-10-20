@@ -5,7 +5,8 @@ import java.time.Instant;
 
 /**
  * A single entry in the journal.  TinyJournal.stream() will return a Stream of these.
- * @author mlamb
+ * 
+ * @author <a href="http://martylamb.com">Marty Lamb</a>
  */
 public interface JournalEntry {
     /**

@@ -9,7 +9,7 @@ import java.util.stream.Stream;
  * A very simple interface for safely writing and reading arbitrary journal entries
  * to/from a backing data store.
  * 
- * @author mlamb
+ * @author <a href="http://martylamb.com">Marty Lamb</a>
  */
 public interface TinyJournal {    
     

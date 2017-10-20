@@ -23,7 +23,7 @@ import java.util.zip.CRC32;
  * 
  * TIMESTAMP, SIZE, DATA, and CRC are each separated by a single space.
  * 
- * @author mlamb
+ * @author <a href="http://martylamb.com">Marty Lamb</a>
  */
 class StringJournalEntry implements JournalEntry {
  

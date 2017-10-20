@@ -18,7 +18,7 @@ import java.util.stream.Stream;
  * newlines, this guarantees that reading the file line by line will correctly
  * identify journal entry boundaries.
  * 
- * @author mlamb
+ * @author <a href="http://martylamb.com">Marty Lamb</a>
  */
 public class TinyFileJournal implements TinyJournal {
 
